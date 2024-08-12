@@ -41,8 +41,9 @@
 
 
 # 9. Define a function called plot_runge_kutta_4 that outputs the result of applying the 4th-Order
-# Runge Kutta Method to an ODE initial value problem with specified step sizes. Copy and paste the code
-# from task_1 or task_2 and make the necessary adjustments.
+# Runge-Kutta Method to an ODE initial value problem with specified step sizes. Copy and paste the code
+# from task_1 or task_2 and make the necessary adjustments. Set the title to:
+# 4th-Order Runge-Kutta Method for Different Step Sizes.
 
 
 
@@ -50,7 +51,7 @@
 
 
 
-# 12. Apply the plot_runge_kutta_2 function to the ODE dy/dt = -2ty with an initial value
+# 12. Apply the plot_runge_kutta_4 function to the ODE dy/dt = -2ty with an initial value
 # y(0) = 1, end time of 2, and step_sizes 0.2, 0.1, 0.05, 0.01, and 0.001.
 
 
