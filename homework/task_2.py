@@ -43,8 +43,9 @@
 
 
 # 10. Define a function called plot_runge_kutta_2 that outputs the result of applying the 2nd-Order
-# Runge Kutta Method to an ODE initial value problem with specified step sizes. Copy and paste the code
-# from task_1 and make the necessary adjustments.
+# Runge-Kutta Method to an ODE initial value problem with specified step sizes. Copy and paste the code
+# from task_1 and make the necessary adjustments. Set the title to:
+# 2nd-Order Runge-Kutta Method for Different Step Sizes
 
 
 
