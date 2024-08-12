@@ -53,6 +53,6 @@
 
 
 # 12. Apply the plot_runge_kutta_2 function to the ODE dy/dt = -2ty with an initial value
-# y(0) = 1, end time of 2 and step_sizes 0.2, 0.1, 0.05, 0.01, and 0.001.
+# y(0) = 1, end time of 2, and step_sizes 0.2, 0.1, 0.05, 0.01, and 0.001.
 
 
