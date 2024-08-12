@@ -1,4 +1,4 @@
-# Task: Visualize the result of Euler's Method in Python to analyze error and stability.
+# Task: Visualize the result of Euler's Method in Python to analyze accuracy.
 
 # 1. Import matplotlib.pyplot with its corresponding alias and the math library.
 
