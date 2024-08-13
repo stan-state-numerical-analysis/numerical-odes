@@ -47,11 +47,11 @@
 
 
 
-# 11. Import f and true_y from task_1.py.
+# 10. Import f and true_y from task_1.py.
 
 
 
-# 12. Apply the plot_runge_kutta_4 function to the ODE dy/dt = -2ty with an initial value
+# 11. Apply the plot_runge_kutta_4 function to the ODE dy/dt = -2ty with an initial value
 # y(0) = 1, end time of 2, and step_sizes 0.2, 0.1, 0.05, 0.01, and 0.001.
 
 
